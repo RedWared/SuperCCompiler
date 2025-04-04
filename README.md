@@ -1,2 +1,2 @@
 # Super C Compiler
-A program for compile C to super nintendo
+ A program to compile C code for Super Nintendo 
